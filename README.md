@@ -1,2 +1,2 @@
 # OEF-Contest-Repository
-This is tho repository for the Lights, Sounds, Code! contest.
+This is the repository for the Lights, Sounds, Code! contest.
