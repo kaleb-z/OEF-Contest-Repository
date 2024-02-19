@@ -1,1 +1,8 @@
-
+Features
+Has a cardboard base supported with metal.
+The cardboard is painted to represent a road surrounded by grass.
+Has a billboard supported with a popsickle-stick and hot glue.
+There is a motor under the center of the base, with an axle extruding through the top. Has two wooden skewers attached to the axle and to two small model cars.
+There is a crane made of a popsickle-stick outer frame and metal core. The top roates by a servo. The top has a motor attached to an axle extruding parallel to the base with an empty can that has been painted black attached to it that can move up and down from spooling or unspooling string. 
+There are two breadboards next to the crane. One has two LEDs on it and the other has the raspberry pi pico along with three push-buttons on it. There is also a PCA9685 servomotor controller connected to the breadboard.
+There is also a powerbank hooked to the servomotor controller for power.
